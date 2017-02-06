@@ -2,6 +2,8 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # tfk-saksbehandling-soknad-to-xslx
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-saksbehandling-soknad-to-xslx.svg)](https://greenkeeper.io/)
+
 Parses all .json-files in a directory and creates an .xlsx-file.
 
 ## Systems supported
