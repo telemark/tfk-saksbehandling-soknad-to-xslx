@@ -39,6 +39,6 @@
     "tap": "10.0.2"
   },
   "dependencies": {
-    "tfk-json-to-xlsx": "1.0.7"
+    "tfk-json-to-xlsx": "1.0.8"
   }
 }
