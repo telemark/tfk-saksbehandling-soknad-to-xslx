@@ -33,10 +33,10 @@
     "url": "http://github.com/telemark/tfk-saksbehandling-soknad-to-xslx/issues"
   },
   "devDependencies": {
-    "tap": "10.2.1",
-    "coveralls": "2.12.0",
+    "tap": "10.3.2",
+    "coveralls": "2.13.0",
     "nsp": "2.6.3",
-    "standard": "9.0.2"
+    "standard": "10.0.1"
   },
   "dependencies": {
     "tfk-json-to-xlsx": "1.0.11"
