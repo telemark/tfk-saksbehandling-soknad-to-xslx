@@ -1,7 +1,7 @@
 {
   "name": "tfk-saksbehandling-soknad-to-xslx",
   "description": "Create xlsx from jsonfiles",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
@@ -33,7 +33,7 @@
     "url": "http://github.com/telemark/tfk-saksbehandling-soknad-to-xslx/issues"
   },
   "devDependencies": {
-    "tap": "10.2.1"
+    "tap": "10.2.1",
     "coveralls": "2.12.0",
     "nsp": "2.6.3",
     "standard": "9.0.2"
