@@ -33,7 +33,7 @@
     "url": "http://github.com/telemark/tfk-saksbehandling-soknad-to-xslx/issues"
   },
   "devDependencies": {
-    "tap": "10.7.1",
+    "tap": "10.7.2",
     "coveralls": "2.13.1",
     "nsp": "2.7.0",
     "standard": "10.0.3"
