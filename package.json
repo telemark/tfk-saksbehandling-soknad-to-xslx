@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=4.6.2"
+    "node": ">=8.9.4"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -27,11 +27,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/telemark/tfk-saksbehandling-soknad-to-xslx.git"
+    "url": "git+https://github.com/telemark/tfk-saksbehandling-soknad-to-xslx.git"
   },
   "bugs": {
-    "url": "http://github.com/telemark/tfk-saksbehandling-soknad-to-xslx/issues"
+    "url": "https://github.com/telemark/tfk-saksbehandling-soknad-to-xslx/issues"
   },
+  "homepage": "https://github.com/telemark/tfk-saksbehandling-soknad-to-xslx#readme",
   "devDependencies": {
     "tap": "11.0.1",
     "coveralls": "3.0.0",
