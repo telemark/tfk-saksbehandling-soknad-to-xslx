@@ -40,6 +40,6 @@
     "standard": "12.0.1"
   },
   "dependencies": {
-    "tfk-json-to-xlsx": "1.0.11"
+    "tfk-json-to-xlsx": "2.0.0"
   }
 }
