@@ -35,7 +35,7 @@
   "homepage": "https://github.com/telemark/tfk-saksbehandling-soknad-to-xslx#readme",
   "devDependencies": {
     "tap": "14.10.6",
-    "coveralls": "3.0.9",
+    "coveralls": "3.1.0",
     "standard": "14.3.3"
   },
   "dependencies": {
